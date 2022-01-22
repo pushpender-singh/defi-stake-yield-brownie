@@ -1,5 +1,3 @@
 # defi-stake-yield-brownie
 
-<image>
-  web-image.png
- </image> 
+![web-image](https://github.com/pushpender-singh/defi-stake-yield-brownie/blob/main/web-image.png)
